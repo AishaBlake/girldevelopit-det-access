@@ -1,0 +1,39 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #c4c6ca;
+}
+
+header {
+	background-color: #839cca;
+}
+
+header ul {
+	width: 100%;
+}
+
+header li {
+	list-style: none;
+	display: inline;
+	margin-left: 1%;
+}
+header .grid-4 {
+	text-align: right;
+}
+
+a {
+	text-decoration: none;
+	color: #1b2f54;
+}
+
+p, a, i, b {
+	color: #dbe0e9;
+}
+
+img {
+	max-width: 25%;
+	border-radius: 100%;
+	display: block;
+}
