@@ -1,0 +1,8 @@
+.reveal section img {
+  max-width: 60%;
+}
+.reveal section img[alt="gdi logo"] {
+  max-width: 40%;
+  border: none;
+  box-shadow: none;
+}
